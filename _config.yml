@@ -11,28 +11,21 @@ locale                   : "EU_GER"
 title                    : "Raja's Homepage"
 title_separator          : "-"
 name                     : &name "Raja Tamilselvan"
-description              : &description "personal description"
-url                      : https://rajatamilselvan7.github.io/Raja_Tamilselvan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Doctoral Student"
+url                      : https://rajatamilselvan7.github.io/Raja_Tamilselvan.github.io/
+baseurl                  : ""
 repository               : ""
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author - Sidebar Content
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Raja Tamilselvan"
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Freiburg im Breisgau, Germany"
+  employer         : "Albert Ludwig University of Freiburg"
+  uri              : 
+  email            : "raja.tamil@biologie.uni-freiburg.de"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
